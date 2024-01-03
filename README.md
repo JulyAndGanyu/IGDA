@@ -7,10 +7,6 @@ Attention intention object heatmap generation by IDVA.
 ![image](https://github.com/JulyAndGanyu/IDVA/assets/110894437/7c8c3774-b7b5-48e7-9545-70308e39d156)
 
 
-Flow chart of FIMF Score-CAM.
-
-![image](https://github.com/JulyAndGanyu/IDVA/assets/110894437/7f465140-993c-4248-899c-a00285a9b279)
-
 
 Results.
 
