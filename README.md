@@ -4,13 +4,15 @@ The paper presents a new work on an unresolved problem in the field of autonomou
 
 # Method：
 Schematic diagram of the principles of the visual attention selection model. The red lines and text represent important object categories that need to be observed in a given situation. Important object categories to be observed in a given situation.
-![e2db7b3275ff2fa98ea6215e3797cf0](https://github.com/JulyAndGanyu/IDVA/assets/110894437/122b4779-fddb-4972-bf0b-a19be0b08f65)
+![f9e3522f991c84089cb088668ceeff3](https://github.com/JulyAndGanyu/IGDA/assets/110894437/552e0b74-c9e8-4ad3-8086-abcccab866dc)
+
 
 
 
 # Dataset:
 Quantitative Comparison of Multiple Data Visual Attention Datasets.
-![110aa3ebd98ca52b8fe33c79d165a53](https://github.com/JulyAndGanyu/IDVA/assets/110894437/1c1bb2a6-8f87-4ea3-9e57-f7049bbdbec7)
+![5760b52c7602cdac397a5bb3b6681cf](https://github.com/JulyAndGanyu/IGDA/assets/110894437/52043612-d69c-43f5-b064-20f0120d6408)
+
 
 
 # Results：
@@ -29,9 +31,6 @@ In this paper, the following evaluation metrics are used to assess the performan
 1. KL dispersion (KLdiv): measures the difference between predicted attention and true attention.
 2. Pearson's correlation coefficient (CC): measures the strength and direction of the linear relationship between predicted and true attention.
 3. Similarity (SIM): assessed the degree of similarity between the predicted and real concern maps.
-4. Normalized Scan Path Significance (NSS): measured the significance of the true concerns in the predicted concern graph.
-5. AUC-Borji: measured the consistency between the predicted attention graph and the true attention graph based on the area under the ROC curve.
-6. AUC-Judd: based on the area under the ROC curve, measured the consistency of the predicted attention graph with the average attention graph.
 
 # Benchmark download
 Our IDVA dataset can be downloaded from (https://drive.google.com/drive/folders/1xEn0J-CcOf54_cOcPPmoADr88cuDgEGd?usp=sharing)
